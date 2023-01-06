@@ -3,17 +3,20 @@ Coding assignment week 3
 
 All questions must be printed to your Browser’s console:
 1.	Create an array called ages that contains the following values: 3, 9, 23, 64, 2, 8, 28, 93.
+
 1a.	Programmatically subtract the value of the first element in the array from the value in the last element of the array 
 •	Do not use numbers to reference the last element, find it programmatically, 
 •	ages[7] – ages[0] is not allowed!
 
 1b.	Add a new age to your array and repeat the step above to ensure it is dynamic. (works for arrays of different lengths).
+
 1c.	Use a loop to iterate through the array and calculate the average age. 
 
 
 
 
 2.	Create an array called names that contains the following values: ‘Sam’, ‘Tommy’, ‘Tim’, ‘Sally’, ‘Buck’, ‘Bob’.
+
 2a.	Use a loop to iterate through the array and calculate the average number of letters per name. 
 
 2b.	Use a loop to iterate through the array again and concatenate all the names together, separated by spaces. 
@@ -27,6 +30,7 @@ All questions must be printed to your Browser’s console:
 For example:
 
 namesArray = ["Kelly", "Sam", "Kate"] //given this array
+
 nameLengths = [5, 3, 4] //create this new array
 
 
@@ -48,4 +52,6 @@ nameLengths = [5, 3, 4] //create this new array
 13.	Create a function of your own that solves a problem. 
 •	In comments, write what the function does and why you created it.
 
-![image](https://user-images.githubusercontent.com/118779892/210921169-4c4e2707-9bae-4b84-a0c8-7b6951c29ce5.png)
+
+
+
